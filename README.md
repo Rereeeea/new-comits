@@ -4,3 +4,5 @@ oh oh no no
 Ini commit pertama saya
 info.txt
 Ini file kedua untuk latihan commit.
+#hallo winter
+ini file ke tiga saya
