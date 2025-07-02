@@ -6,3 +6,5 @@ info.txt
 Ini file kedua untuk latihan commit.
 #hallo winter
 ini file ke tiga saya
+#whhy noot
+ini commit ke empat saya
